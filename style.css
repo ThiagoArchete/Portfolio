@@ -9,3 +9,7 @@ background: linear-gradient(90deg, rgba(44,0,61,1) 0%, rgba(0,0,0,1) 27%, rgba(0
 #descricao {
     width: 700px; padding-left: 40px;
 }
+
+.navbar {
+    padding: 30px;
+}
